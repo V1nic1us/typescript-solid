@@ -1,0 +1,19 @@
+{
+  "name": "typescript-solid",
+  "version": "1.0.0",
+  "description": "Project created to apply SOLID concepts in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V1nic1us/typescript-solid.git"
+  },
+  "author": "Marcus Vinícius (V1nic1us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/V1nic1us/typescript-solid/issues"
+  },
+  "homepage": "https://github.com/V1nic1us/typescript-solid#readme"
+}
